@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # Preview
 
 <img width="900px" src="https://i.postimg.cc/SQnkfXSQ/fren.png">
-<img width="900px" src="https://i.postimg.cc/ZYXZ7Tn8/js1.png">
+
 
 
 ## Available Scripts
